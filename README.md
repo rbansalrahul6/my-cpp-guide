@@ -1,12 +1,12 @@
 # my-c++-guide
 
-```c_cpp
+```cpp
 #include <algorithm>
 vector<int> v;
 v.push_back(10);
 int main()
 {
-cout<<"Hello World!";
+cout<<"Bye";
 }
 ```
 ```ruby

@@ -1,1 +1,1 @@
-# my-c-guide
+# my-c++-guide

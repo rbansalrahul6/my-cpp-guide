@@ -1,5 +1,5 @@
 # my-c++-guide
 
-[Arrays](/arrays.md)
-[STL](/stl.md)
+-[Arrays](/arrays.md)
+-[STL](/stl.md)
 
